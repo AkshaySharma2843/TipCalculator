@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">Tip Calculator</string>
+    <string name="string_tip_calculator">Tip Calculator</string>
+    <string name="string_enter_bill_amount">Enter Bill Amount</string>
+    <string name="string_0_00">₹0.00</string>
+    <string name="remaining_amount_to_split">Remaining Amount to Split:</string>
+    <string name="service_quality">Service Quality:</string>
+    <string name="tip_percentage_5">Tip Percentage: 5%</string>
+    <string name="tip_amount">Tip Amount:</string>
+    <string name="total_amount">Total Amount:</string>
+    <string name="round_total_amount">Round Total Amount</string>
+    <string name="number_of_people">Number of People</string>
+    <string name="total_amount_splitted">Total Amount Splitted:</string>
+    <string name="string_enter_number">Divide the bill among :</string>
+
+    <string-array name="service_quality_options">
+        <item>Poor (10%)</item>
+        <item>Good (15%)</item>
+        <item>Excellent (20%)</item>
+    </string-array>
+
+    <string-array name="currency_options">
+        <item>₹ (INR)</item>
+        <item>$ (USD)</item>
+        <item>€ (EUR)</item>
+        <item>£ (GBP)</item>
+    </string-array>
+
+</resources>
